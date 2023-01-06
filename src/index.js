@@ -12,7 +12,7 @@ const setupAndStartServer = async () => {
     app.listen(PORT, async () => {
         console.log(`Server started on port ${PORT}`);
         sendBasicEmail(
-            `Flights24support <flightapp24@gmail.com>`,
+            `support@Flights24 <flightapp24@gmail.com>`,
             'flightapp24@gmail.com',
             'This is a testing email',
             'Hey how are you. I hope you like the support.'

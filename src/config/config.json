@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "4473",
+    "password": "root",
     "database": "REMINDER_DB_DEV",
     "host": "127.0.0.1",
     "dialect": "mysql"
